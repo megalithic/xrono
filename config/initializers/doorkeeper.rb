@@ -1,3 +1,4 @@
+=begin
 Doorkeeper.configure do
   # This block will be called to check whether the
   # resource owner is authenticated or not
@@ -30,3 +31,4 @@ Doorkeeper.configure do
   # Check out the wiki for mor information on customization
   # client_credentials :from_basic, :from_params
 end
+=end
